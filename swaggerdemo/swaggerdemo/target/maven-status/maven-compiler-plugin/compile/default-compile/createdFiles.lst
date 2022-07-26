@@ -1,0 +1,3 @@
+com\ebit\swaggerdemo\SwaggerdemoApplication.class
+com\ebit\swaggerdemo\config\SwaggerConfig.class
+com\ebit\swaggerdemo\controller\HomeController.class
